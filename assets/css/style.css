@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+/*  W E B _ page Acceuil _ Section-1 _ Header - Titre - Présentation des Acteurs */
+
+.d-md-block {
+    font-family: 'Montserrat', verdana, sans-serif;
+    font-size: 0.8vw;
+    padding-top: 0.8vw;
+}
+
+.bgred {
+    background-color: #B11313;
+}
+
+#ideal {
+    padding-left: 6.5vw;
+}
+
+.titremd {
+    font-family: 'Far From Homecoming';
+    font-size: 5.7vw;
+    padding-top: 13.8vw;
+    margin-bottom: 8vw;
+}
+
+#spide {
+    margin-right: 2%;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+
+.fosi {
+    font-size: smaller;
+    border-radius: 17px;
+    padding: 12px;
+    color: #B11313;
+}
+
+.h5 {
+    font-family: 'Far From Homecoming';
+    font-size: 5.5vw;
+}
+
+.araig {
+    margin-top: 3vw;
+}
+
+.spih {
+    font-family: 'Far From Homecoming';
+    font-size: 1.8vw;
+    margin-top: 8vw;
+}
+
+.margix {
+    margin: 0 2.4%;
+}
+
+.carda {
+    text-align: justify;
+}
+
+
+/* W E B _ page Acceuil _ Section-2 _ Formulaire de démande de Costume */
+
+.bgblue {
+    background-color: #114C92;
+}
+
+.h1 {
+    font-family: 'Far From Homecoming';
+    font-size: 2vw;
+    margin-top: 3vw;
+    margin-right: 9vw;
+}
+
+.taille {
+    width: 40vw;
+}
+
+.padix {
+    font-size: 0.9vw;
+    border-radius: 1vw;
+    padding: 1vw 1.7vw;
+    margin-top: 1.7vw;
+    color: #B11313;
+}
+
+
+/* W E B _ page Acceuil _ Section-3 _ Formulaire d'inscription à la Newsletter */
+
+#cardi {
+    padding-left: 10vw;
+    padding-right: 0;
+}
+
+.fitara {
+    background-color: transparent;
+    border: 1px solid white;
+    color: white;
+    border-style: outset;
+}
+
+.coche {
+    width: 1.5vw;
+    height: 1.5vw;
+    margin-right: 1.75vw;
+}
+
+
+/* W E B _ page Acceuil _ Section-4 _ Footer */
+
+.bgnoir {
+    background-color: #000000;
+}
+
+.lang {
+    font-size: 0.8vw;
+}
+
+.trans {
+    color: #B11313;
+}
+
+
+/* W E B _ page Adversaires _ Section-1 _ Header */
+
+.bgjaune {
+    background-color: #F1C530;
+}
+
+
+/* W E B _ page Adversaires _ Section-2 _ Présentation des adversaires */
+
+.margi {
+    margin: 1.5% 2.4%;
+}
+
+.bordero {
+    border-right: 0.6vw solid black;
+    border-bottom: 0.6vw solid black;
+    border-left: 0.6vw solid black;
+    border-bottom-right-radius: 2vw;
+    border-bottom-left-radius: 2vw;
+}
+
+
+/* W E B _ page Adversaires _ Section-3 _ Footer */
+
+.transad {
+    color: #F1C530;
+}
+
+
+/* W E B _ page Héros _ Section-1 _ Header */
+
+
+/* W E B _ page Héros _ Section- _ Footer */
+
+.transhé {
+    color: #114C92;
+}
+
+
+/* W E B _ page A propos _ Section- _ Header */
+
+
+/* W E B _ page A propos _ Section-2 _  */
+
+
+/* PAGE-MOBILE HOME _ Section-1 _ Header - Titre - Présentation des Acteurs */
+
+.d-md-none {
+    font-family: 'Montserrat', verdana, sans-serif;
+    font-size: 2.5vw;
+}
