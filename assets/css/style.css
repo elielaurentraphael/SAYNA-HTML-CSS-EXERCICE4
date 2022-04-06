@@ -1,16 +1,39 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 
-/*  W E B _ page Acceuil _ Section-1 _ Header - Titre - Présentation des Acteurs */
+/* STYLE GENERAL pour le SITE */
 
 .d-md-block {
     font-family: 'Montserrat', verdana, sans-serif;
-    font-size: 0.8vw;
+    font-size: 1vw;
     padding-top: 0.8vw;
 }
 
 .bgred {
     background-color: #B11313;
 }
+
+.bgblue {
+    background-color: #114C92;
+}
+
+.bgjaune {
+    background-color: #F1C530;
+}
+
+.bgnoir {
+    background-color: #000000;
+}
+
+.lang {
+    font-size: 0.8vw;
+}
+
+.case {
+    width: 82%;
+}
+
+
+/*  W E B _ Acceuil _ Section-1 _ Header - Titre - Présentation des Acteurs */
 
 #ideal {
     padding-left: 6.5vw;
@@ -60,11 +83,7 @@
 }
 
 
-/* W E B _ page Acceuil _ Section-2 _ Formulaire de démande de Costume */
-
-.bgblue {
-    background-color: #114C92;
-}
+/* W E B _ Acceuil _ Section-2 _ Formulaire de démande de Costume */
 
 .h1 {
     font-family: 'Far From Homecoming';
@@ -86,7 +105,7 @@
 }
 
 
-/* W E B _ page Acceuil _ Section-3 _ Formulaire d'inscription à la Newsletter */
+/* W E B _ Acceuil _ Section-3 _ Formulaire d'inscription à la Newsletter */
 
 #cardi {
     padding-left: 10vw;
@@ -107,29 +126,22 @@
 }
 
 
-/* W E B _ page Acceuil _ Section-4 _ Footer */
-
-.bgnoir {
-    background-color: #000000;
-}
-
-.lang {
-    font-size: 0.8vw;
-}
+/* W E B _ Acceuil _ Section-4 _ Footer */
 
 .trans {
     color: #B11313;
 }
 
 
-/* W E B _ page Adversaires _ Section-1 _ Header */
+/* W E B _ Adversaires _ Section-1 _ Header */
 
-.bgjaune {
-    background-color: #F1C530;
+#vilain {
+    margin-top: 18%;
+    padding-left: 7.5%;
 }
 
 
-/* W E B _ page Adversaires _ Section-2 _ Présentation des adversaires */
+/* W E B _ Adversaires _ Section-2 _ Présentation des adversaires */
 
 .margi {
     margin: 1.5% 2.4%;
@@ -144,30 +156,185 @@
 }
 
 
-/* W E B _ page Adversaires _ Section-3 _ Footer */
+/* W E B _ Adversaires _ Section-3 _ Footer */
 
 .transad {
     color: #F1C530;
 }
 
 
-/* W E B _ page Héros _ Section-1 _ Header */
+/* W E B _ Héros _ Section-1 _ Header */
 
 
-/* W E B _ page Héros _ Section- _ Footer */
+/* W E B _ Héros _ Section-2 _ Des valeurs à défendre */
+
+.titre3 {
+    font-size: 1.3vw;
+}
+
+.peter {
+    text-align: justify;
+}
+
+.mxr {
+    margin-right: 4%;
+}
+
+
+/* W E B _ Héros _ Section-3 _ Des fondations solides */
+
+#titrhé {
+    margin-top: 20%;
+}
+
+.h1 {
+    font-family: 'Far From Homecoming';
+    font-size: 2vw;
+    margin-top: 3vw;
+    margin-right: 9vw;
+}
+
+.titre3 {
+    font-size: 1.3vw;
+}
+
+
+/* W E B _ Héros _ Section-4 _ Force surhumaine */
+
+#isa {
+    position: relative;
+    padding: 0;
+}
+
+#roa {
+    position: relative;
+    z-index: 1;
+}
+
+#roa img {
+    width: 25vw;
+    height: auto;
+}
+
+#telo {
+    position: absolute;
+    z-index: 2;
+    top: 30%;
+    left: 38%;
+}
+
+#telo img {
+    width: 21.5vw;
+    height: auto;
+}
+
+#img23 {
+    position: relative;
+}
+
+#img24 {
+    position: relative;
+}
+
+#img25 {
+    position: relative;
+    left: 55%;
+}
+
+
+/*  W E B _ Héros _ Section-6 _ Les Avengers */
+
+#quatre {
+    padding-right: 0;
+    padding-left: 9%;
+}
+
+.img26 {
+    width: 17%;
+    height: 30.60%;
+}
+
+.colpad {
+    padding-left: 0;
+}
+
+
+/*  W E B _ Héros _ Section-6 _ Univers hyper riche */
+
+.imag33 {
+    position: relative;
+}
+
+#img33 {
+    position: relative;
+    z-index: -1;
+}
+
+#textoo {
+    position: absolute;
+    top: 0;
+    right: 11%;
+    width: 35%;
+}
+
+
+/* W E B _ Héros _ Section- _ Footer */
 
 .transhé {
     color: #114C92;
 }
 
 
-/* W E B _ page A propos _ Section- _ Header */
+/* W E B _ A propos _ Section- _ Header */
+
+.dega {
+    font-family: 'Far From Homecoming';
+    font-size: 500%;
+}
+
+#titrhé {
+    margin-top: 20%;
+}
+
+.titrho {
+    font-size: 157%;
+}
+
+.padlef {
+    padding-left: 9%;
+}
 
 
-/* W E B _ page A propos _ Section-2 _  */
+/* W E B _ A propos _ Section-2 _ Message */
+
+#anten {
+    padding-bottom: 8%;
+}
+
+#submit {
+    margin-right: 30%;
+}
 
 
-/* PAGE-MOBILE HOME _ Section-1 _ Header - Titre - Présentation des Acteurs */
+/* W E B _ A propos _ Section-3 _ SAYNA X MARVEL */
+
+#sayna {
+    padding-left: 0;
+}
+
+#marvel {
+    padding-right: 0;
+}
+
+.fosa {
+    font-size: smaller;
+    border-radius: 17px;
+    padding: 12px;
+    color: #fff;
+}
+
+
+/* MOBILE HOME _ Section-1 _ Header - Titre - Présentation des Acteurs */
 
 .d-md-none {
     font-family: 'Montserrat', verdana, sans-serif;
