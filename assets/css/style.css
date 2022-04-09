@@ -350,7 +350,11 @@
 
 .d-md-none {
     font-family: 'Montserrat', verdana, sans-serif;
-    font-size: 2.5vw;
+    font-size: 2.3vw;
+}
+
+#mobile {
+    overflow: hidden;
 }
 
 
@@ -361,9 +365,22 @@
 }
 
 
+/* MOBILE HOME _ Section-3 _ Newsletters */
+
+#newslet {
+    font-size: 5vw;
+}
+
+
 /* MOBILE HOME _ Section-4 _ Footer */
 
-.tirait {
+.tiret {
     width: 45vw;
     height: 2vw;
+}
+
+audio {
+    position: absolute;
+    margin-top: -5%;
+    margin-left: 10%;
 }
